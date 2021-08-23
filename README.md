@@ -1,1 +1,1 @@
-# EAST_Quiz-Web-Portal
+# EAST_Quiz-Web-Portal - Group Project (4 Members)
